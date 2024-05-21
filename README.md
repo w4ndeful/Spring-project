@@ -1,4 +1,4 @@
-Functional Requirements
+#### Functional Requirements
 
 1. **User Authentication**:
    - Users must be able to register and log in.
@@ -35,34 +35,33 @@ Functional Requirements
 ### Mockups
 
 #### 1. Login Page
-![Login Page](mockup-login.png)
+
 
 #### 2. Dashboard
-![Dashboard](mockup-dashboard.png)
+
 
 #### 3. Warranty Registration Form
-![Warranty Registration Form](mockup-warranty-registration.png)
+
 
 #### 4. Warranty Search Results
-![Warranty Search Results](mockup-warranty-search.png)
+
 
 #### 5. Warranty Details View
-![Warranty Details View](mockup-warranty-details.png)
+
 
 #### 6. Update Warranty Form
-![Update Warranty Form](mockup-update-warranty.png)
+
 
 #### 7. Delete Warranty Confirmation
-![Delete Warranty Confirmation](mockup-delete-warranty.png)
+
 
 #### 8. Report Generation Form
-![Report Generation Form](mockup-report-generation.png)
+
 
 #### 9. User Management (Admin)
-![User Management](mockup-user-management.png)
+
 
 #### 10. Audit Trail View
-![Audit Trail View](mockup-audit-trail.png)
 
 ### System Behavior and REST API Endpoints
 
